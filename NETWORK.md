@@ -1,10 +1,17 @@
-# Zion AI Compliance Monitor
+# Zion AI Compliance Monitor — Zion App Network
 
-Continuous SOC 2 / ISO 27001 evidence collection and monitoring.
+Zion AI Compliance Monitor — continuous SOC 2 / ISO 27001 evidence collection. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-compliance-evidence-collector](https://github.com/Zion-support/zion-ai-compliance-evidence-collector) · [zion-ai-compliance-auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) · [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) · [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-compliance-monitor/](https://ziontechgroup.com/zion-ai-compliance-monitor/)
+- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Compliance Evidence Collector](https://github.com/Zion-support/zion-ai-compliance-evidence-collector) — continuous evidence gathering
+- [Zion AI Compliance Auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) — EU AI Act ready auditing
+- [Zion AI Compliance Checker](https://github.com/Zion-support/zion-ai-compliance-checker) — readiness checklists
+- [Zion AI Compliance Scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — CIS benchmarks and audit reporting
+- [Zion AI Secrets Sentinel](https://github.com/Zion-support/zion-ai-secrets-sentinel) — continuous secret scanning
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
