@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-compliance-monitor/
-- 🔗 Related: [Zion AI Governance](https://ziontechgroup.com/zion-ai-governance/) · [Data Retention Enforcer](https://ziontechgroup.com/data-retention-enforcer/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Compliance Scanner](https://ziontechgroup.com/zion-ai-compliance-scanner/) · [Compliance Policy Writer](https://ziontechgroup.com/compliance-policy-writer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
